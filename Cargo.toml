@@ -1,0 +1,15 @@
+[package]
+name = "wsl_process_manager"
+version = "0.1.0"
+edition = "2024"
+
+
+[dependencies]
+eframe = "0.22"
+egui = "0.22"
+procfs = "0.14"
+sysinfo = "0.29"
+colored = "2.0"
+users = "0.11"
+libc = "0.2"
+
